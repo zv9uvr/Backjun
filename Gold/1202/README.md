@@ -3,7 +3,7 @@
 ### 📌 문제 정보
 - **난이도**: Gold 2
 - **유형**: 그리디(Greedy), 우선순위 큐(Priority Queue)
-- **문제 링크**: [백준 1202번]([https://www.acmicpc.net/problem/1202](https://www.acmicpc.net/problem/1202))
+- **문제 링크**: [백준 1202번](https://www.acmicpc.net/problem/1202)
 
 ### 💡 풀이 아이디어 (알고리즘 원리)
 - **그리디 전략**: 각 가방에 담을 수 있는 보석 중 가장 가치가 높은 보석을 선택하는 것이 최적의 해입니다.
